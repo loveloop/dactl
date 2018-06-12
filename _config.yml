@@ -5,7 +5,7 @@ url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
+  title                      : LOOP
   description                  : >
                                this should contain a proper description
 
@@ -26,14 +26,14 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : LOVELOOP
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
+  mail                      : imagineloop@gmail.com # change to your e-mail address
   twitter                   : twitter-user-name
   github                    : github-user-name
   youtube                   : youtube-user-name
   stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
+  disqus                    : LOOP # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
