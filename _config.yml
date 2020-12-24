@@ -9,7 +9,7 @@
 # --------------------------
 title: LUCIA log                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: LUCIA github blog.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -17,7 +17,7 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
-url: 'https://loveloop.github.io/lucialog/'
+url: 'https://loveloop.github.io'
 
 author: LUCIA                  # change to your full name
 
